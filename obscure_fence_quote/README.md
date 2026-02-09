@@ -1,6 +1,6 @@
 # ObscureFenceQuote
 
-**TODO: Add description**
+**random quote from list**
 
 ## Installation
 
