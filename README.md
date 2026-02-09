@@ -1,21 +1,10 @@
 # ObscureFenceQuote
 
-**TODO: Add description**
+**obscure_fence_quote** - random quote from list
 
-## Installation
+run
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `obscure_fence_quote` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:obscure_fence_quote, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/obscure_fence_quote>.
+    $ mix deps.get
+    $ mix compile
+    $ mix run --no-halt
 
